@@ -1,0 +1,7 @@
+tcode,field_id,value,action
+VA01,,,enter
+,wnd[0]/usr/ctxtVBAK-AUART,OR,
+,wnd[0]/usr/ctxtVBAK-VKORG,1000,
+,wnd[0]/usr/ctxtVBAK-VTWEG,10,
+,wnd[0]/usr/ctxtVBAK-SPART,00,enter
+,, ,save

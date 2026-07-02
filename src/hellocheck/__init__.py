@@ -1,0 +1,1 @@
+"""HelloCheck automation package."""
